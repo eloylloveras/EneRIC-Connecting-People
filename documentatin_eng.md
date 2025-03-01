@@ -32,3 +32,21 @@ EnerIC is a **5G-based and AI-driven solution** designed to create low-cost, sus
 ## Conclusion  
 
 EnerIC represents an **innovative solution** to enhance connectivity in developing regions by providing a **sustainable and accessible deployment model** through the use of **5G technology and artificial intelligence**.
+
+
+## Future Plans
+
+EnerIC is a continuously evolving solution with plans to expand its capabilities and maximize its impact on connectivity in developing regions. Our future objectives include:
+
+- **Infrastructure Optimization**: Further improving AI-based optimization algorithms to reduce operational costs and enhance network efficiency.
+
+- **Expansion to New Regions**: Evaluating and adapting the solution for different countries and contexts, ensuring scalable implementation in various geographical and socioeconomic conditions.
+
+- **Integration of Renewable Energy**: Moreover, opening a path towards sustainability, we propose integrating renewable energy as part of the network infrastructure to bring energy costs down to zero. This will reduce operational expenses and make the network energy self-sufficient.
+
+- **Strategic Partnerships**: Establishing alliances with governments, NGOs, and tech companies to promote the development and deployment of EnerIC in underserved communities.
+
+- **Pilot Tests and Validation**: Implementing real-world testing to collect performance data, gather feedback, and make improvements before scaling up deployment.
+
+These plans reflect our commitment to innovation and sustainability, ensuring that EnerIC continues to evolve and create a long-term positive impact.
+
