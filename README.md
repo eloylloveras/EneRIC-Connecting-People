@@ -16,3 +16,13 @@ By combining AI-driven network efficiency with green energy solutions, EnerIC ai
 ## VIDEO PRESENTATION
 
 [![EnerIC Hackathon Solution Presentation](https://img.youtube.com/vi/MoCf6IZouzw/0.jpg)](https://youtu.be/MoCf6IZouzw)
+
+
+
+## TEAM MEMBERS
+
+- **Eloy Lloveras Gil** : https://www.linkedin.com/in/eloylloverasgil/
+
+- **Aitor Murgui** : https://www.linkedin.com/in/aitor-murgui-gonz%C3%A1lez-a744b1227/
+
+
