@@ -49,22 +49,48 @@ EneRIC es una **solución innovadora** diseñada para abordar los problemas de c
 ---
 
 ## Beneficios
-- **Menos Costos**: Hasta un **75% de reducción en OpEx** en escenarios óptimos.
+- **Menos Costos**: Hasta un **65% de reducción en OpEx** en escenarios óptimos.
 - **Sostenibilidad**: Se optimiza el uso de energía con IA y fuentes renovables.
 - **Mayor Accesibilidad**: Facilita la expansión de la conectividad en regiones desatendidas.
 - **Escalabilidad**: Puede adaptarse a diferentes países y contextos de despliegue.
 
 ---
 
-## Guía de Instalación
+## Installation Guide
+### Prerequisites
+- Python 3.8+
+- Aimlapi API Key
 
-### Requisitos Previos
-- Docker
-- Kubernetes
-- API LabLabIA
-
-### Pasos
-1. Clonar el repositorio:
+### Steps
+1. Clone the repository:
    ```bash
-   git clone https://github.com/tu_usuario/EneRIC.git
-   cd EneRIC
+   git clone https://github.com/eloylloveras/EneRIC-installation-v1.git
+   cd AfriLearn-AI-Tutor
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+4. Set up API keys:
+   - Create a secrets.toml file in the .streamlit directory.
+   - Add your API keys:
+     ```bash
+      AIML_API_KEY = "your_aiml_api_key"
+      ELEVENLABS_API_KEY = "your_elevenlabs_api_key"
+      STABILITY_KEY = "your_stability_api_key"
+      ADMIN_PASS = "your_admin_password"
+6. Run the app:
+   ```bash
+   streamlit run app.py
+## Contact
+For any questions or feedback, feel free to reach out:
+
+Email: aitormurgui@gmail.com [TELECOS] eloylloveras@gmail.com [IA]  
+GitHub: https://github.com/eloylloveras
+LinkedIn: 
+
+Aitor: https://www.linkedin.com/in/aitor-murgui-gonz%C3%A1lez-a744b1227/
+Eloy: https://www.linkedin.com/in/eloylloverasgil/
+
+
+
+
+
