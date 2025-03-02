@@ -5,6 +5,18 @@ EneRIC is an **innovative solution** designed to address connectivity challenges
 
 ---
 
+## PRESENTATION 
+
+Presentation: https://youtu.be/MoCf6IZouzw
+
+---
+
+## DEMO 
+
+Demo YT: https://youtu.be/S1zDiraVovY
+
+---
+
 ## Table of Contents
 1. [Introduction](#introduction)  
 2. [Features](#features)  
@@ -56,11 +68,6 @@ EneRIC is an **innovative solution** designed to address connectivity challenges
 
 ---
 
-## DEMO 
-
-Demo YT: https://youtu.be/S1zDiraVovY
-
----
 
 ## Installation Guide
 
