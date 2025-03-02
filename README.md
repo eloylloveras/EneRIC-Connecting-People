@@ -98,10 +98,10 @@ Demo YT: https://youtu.be/S1zDiraVovY
 4. PREPARE THE VIRTUAL ENVIRONMENT
    - Once you have both VMWARE deployed and the API_KEY execute this commands.
     ```bash
-     1. En la VMWARE de open5gs:
+     1. In the VMWARE open5gs:
           1. sudo nmcli con up ogstun
 
-     2. En la VMWARE de gnb:
+     2. In the VMWARE de gnb:
           1. sudo ip netns add ue1
 
 5. EXECUTE THE DEMO
@@ -114,7 +114,7 @@ Demo YT: https://youtu.be/S1zDiraVovY
 ## Contact
 For any questions or feedback, feel free to reach out:
 
-Email: aitormurgui@gmail.com [TELECOS] eloylloveras@gmail.com [IA]
+Email: aitormurgui@gmail.com [TELCOS] eloylloveras@gmail.com [IA]
 
 GitHub: https://github.com/eloylloveras
 
