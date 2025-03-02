@@ -86,7 +86,8 @@ Demo YT: https://youtu.be/S1zDiraVovY
 
     
 3. Set up API keys:
-   - Navigate to  ' AÑADIR ' 
+   - Navigate to  ' oran-sc-ric/xApps/python/ '
+   - Edit the file named 'kpm_mon_xapp.py'
    - Search the CLIENT API KEY and change the API_KEY specified to your own:
      ```bash
       AIML_API_KEY = "your_aiml_api_key"
