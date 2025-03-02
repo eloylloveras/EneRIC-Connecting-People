@@ -58,7 +58,7 @@ EneRIC is an **innovative solution** designed to address connectivity challenges
 
 ## DEMO 
 
-Demo YT: https://studio.youtube.com/video/S1zDiraVovY/edit
+Demo YT: https://youtu.be/S1zDiraVovY
 
 ---
 
