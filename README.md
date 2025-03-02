@@ -83,11 +83,14 @@ EneRIC es una **solución innovadora** diseñada para abordar los problemas de c
 ## Contact
 For any questions or feedback, feel free to reach out:
 
-Email: aitormurgui@gmail.com [TELECOS] eloylloveras@gmail.com [IA]  
+Email: aitormurgui@gmail.com [TELECOS] eloylloveras@gmail.com [IA]
+
 GitHub: https://github.com/eloylloveras
+
 LinkedIn: 
 
 Aitor: https://www.linkedin.com/in/aitor-murgui-gonz%C3%A1lez-a744b1227/
+
 Eloy: https://www.linkedin.com/in/eloylloverasgil/
 
 
