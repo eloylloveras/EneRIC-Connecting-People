@@ -1,4 +1,4 @@
-# EneRIC: AI-Driven 5G Connectivity Solution
+# EneRIC - Connecting People
 
 ## Introduction
 EneRIC is an **innovative solution** designed to address connectivity challenges in developing regions. It focuses on the complexities of deploying 5G networks in rural areas, where infrastructure and operational costs are extremely high. Through **network virtualization and artificial intelligence**, EneRIC enables a more accessible and sustainable implementation.
