@@ -65,14 +65,14 @@ EneRIC is an **innovative solution** designed to address connectivity challenges
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/eloylloveras/EneRIC-installation-v1.git
+   git clone https://github.com/eloylloveras/EneRIC---Connecting-People.git
    cd AfriLearn-AI-Tutor
 
 
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/eloylloveras/EneRIC-installation-v1.git
+   git clone https://github.com/eloylloveras/EneRIC---Connecting-People.git
    cd AfriLearn-AI-Tutor
 2. Install dependencies:
    ```bash
