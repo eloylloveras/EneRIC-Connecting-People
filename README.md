@@ -72,11 +72,14 @@ Demo YT: https://youtu.be/S1zDiraVovY
 ## Installation Guide
 
 ### Prerequisites
-- Python 3.8+  
 - Aimlapi API Key
+- Open5gs            [./libraries]
+- Oran-sc-ric        [./libraries]
+- srsRAN_Project     [./libraries]
+- srsRAN_4G          [./libraries]
 
 ### Steps
-1. Download the VMWARE (Open5GS, gnb)  from this repository:
+1. Download the VMWARE (Open5GS, gnb) and all the libraries needed from this repository:
    ```bash
    https://drive.google.com/drive/folders/1MwMBT5h5eNWnwrvjOuCB-dtzFCIkHX8m?usp=sharing
 
