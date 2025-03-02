@@ -65,7 +65,7 @@ Presentation: https://drive.google.com/drive/folders/1MwMBT5h5eNWnwrvjOuCB-dtzFC
 ---
 
 ## Benefits
-- **Lower Costs**: Up to **65% reduction in OpEx** in optimal scenarios.  
+- **Lower Costs**: Up to **75% reduction in OpEx** in optimal scenarios.  
 - **Sustainability**: Enhances energy usage with AI and renewable sources.  
 - **Greater Accessibility**: Facilitates connectivity expansion in underserved regions.  
 - **Scalability**: Can be adapted to different countries and deployment contexts.
