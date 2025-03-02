@@ -73,10 +73,10 @@ Demo YT: https://youtu.be/S1zDiraVovY
 
 ### Prerequisites
 - Aimlapi API Key
-- Open5gs            [./libraries]
-- Oran-sc-ric        [./libraries]
-- srsRAN_Project     [./libraries]
-- srsRAN_4G          [./libraries]
+- Open5gs            
+- Oran-sc-ric       
+- srsRAN_Project     
+- srsRAN_4G          
 
 ### Steps
 1. Download the VMWARE (Open5GS, gnb) and all the libraries needed from this repository:
