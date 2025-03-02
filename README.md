@@ -69,31 +69,36 @@ Demo YT: https://youtu.be/S1zDiraVovY
 - Aimlapi API Key
 
 ### Steps
-1. Clone the repository:
+1. Download the VMWARE (Open5GS, gnb)  from this repository:
    ```bash
-   git clone https://github.com/eloylloveras/EneRIC---Connecting-People.git
-   cd AfriLearn-AI-Tutor
+   https://drive.google.com/drive/folders/1MwMBT5h5eNWnwrvjOuCB-dtzFCIkHX8m?usp=sharing
 
-
-### Steps
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/eloylloveras/EneRIC---Connecting-People.git
-   cd AfriLearn-AI-Tutor
 2. Install dependencies:
    ```bash
-   pip install -r requirements.txt
-4. Set up API keys:
-   - Create a secrets.toml file in the .streamlit directory.
-   - Add your API keys:
+   As we provide you with the fully configured VMware environment, you theoretically won’t need to install anything else. However, for transparency, all libraries used (which are open source) are specified in the requirements.txt file.
+
+    
+3. Set up API keys:
+   - Navigate to  ' AÑADIR ' 
+   - Search the CLIENT API KEY and change the API_KEY specified to your own:
      ```bash
       AIML_API_KEY = "your_aiml_api_key"
-      ELEVENLABS_API_KEY = "your_elevenlabs_api_key"
-      STABILITY_KEY = "your_stability_api_key"
-      ADMIN_PASS = "your_admin_password"
-6. Run the app:
-   ```bash
-   streamlit run app.py
+     
+4. PREPARE THE VIRTUAL ENVIRONMENT
+   - Once you have both VMWARE deployed and the API_KEY execute this commands.
+    ```bash
+     1. open5gs
+     2. sudo nmcli con up ogstun
+     3. Navigate to  ' AÑADIR ' 
+
+
+5. EXECUTE THE DEMO
+   - Now theoretically the environment it's working fine.
+   - Follow the following DEMO to execute all needs to simulate the trafic.
+   - DEMO: [https://youtu.be/S1zDiraVovY] 
+
+
+
 ## Contact
 For any questions or feedback, feel free to reach out:
 
