@@ -28,7 +28,7 @@ EneRIC es una **solución innovadora** diseñada para abordar los problemas de c
 ## Problema y Solución
 
 ### Problema
-- El alto costo de infraestructura hace inviable el despliegue de 5G en muchas regiones rurales.
+- El alto costo de infraestructura hace inviable el despliegue de 5G en muchos paises subdesarrollados.
 - Modelos tradicionales de despliegue no se adaptan a las necesidades económicas de estas zonas.
 - Falta de infraestructura energética confiable para alimentar las estaciones base.
 
