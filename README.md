@@ -127,6 +127,9 @@ LinkedIn:
 Aitor: https://www.linkedin.com/in/aitor-murgui-gonz%C3%A1lez-a744b1227/
 
 Eloy: https://www.linkedin.com/in/eloylloverasgil/
+Co-Autor: ## Sobre el autor
+[Lloveras Ai Solutions](https://lloverasaisolutions.com) durante el Hackatón 2025.
+
 
 
 
